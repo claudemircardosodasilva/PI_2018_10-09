@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: kohsuke
+Build-Jdk: 1.6.0_02-fastdebug
+Specification-Title: JavaServer Pages(TM) Standard Tag Library
+Specification-Version: 1.2-rev-1
+Specification-Vendor: Sun Microsystems, Inc.
+Implementation-Title: JavaServer Pages(TM) Standard Tag Library
+Implementation-Version: 1.2-rev-1
+Implementation-Vendor-Id: javax.servlet.jsp.jstl
+Implementation-Vendor: Sun Microsystems, Inc.
+Extension-Name: javax.servlet.jsp.jstl
+
